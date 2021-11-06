@@ -17,8 +17,6 @@ function SubscribeButton({ priceId }: Props) {
   const [session] = useSession()
   const router = useRouter()
 
-  console.log({session})
-
   async function handleSubscribe() {
     if (!session) {
       signIn('github')
