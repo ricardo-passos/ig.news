@@ -6,7 +6,7 @@ This is a JAMStack application. In other words, this application doesn't have a 
 ## What is this app about?
 
 This is an app about the React.js ecosystem. You can register for the app for free using your Github account and view the list of posts or a preview of posted content. 
-To read the full post, you need an active subscription. Since it's just a project, you can register using a test card number, such as 4242 4242 4242 4242, to test the app.
+To read the full post, you need an active subscription. Since it's just a project, you can register using a test card number, such as `4242 4242 4242 4242`, to test the app.
 
 ## Tech used
 
